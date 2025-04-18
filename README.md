@@ -1,4 +1,4 @@
-# India Government Schemes Scraper
+# Indian Government Schemes Scraper
 
 A robust web scraping tool to extract structured data from Indian government scheme pages, including eligibility criteria, application processes, FAQs, and more. Built with Python and Selenium for handling dynamic content. Data is collected from the official [Myscheme.gov.in](https://www.myscheme.gov.in) website.
 
